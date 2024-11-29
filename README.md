@@ -7,3 +7,5 @@ The objectives include cleaning, formatting, and filtering the dataset using Exc
 
 ## Dahsboard:
 
+![Screenshot 2024-11-29 132041](https://github.com/user-attachments/assets/3365ea49-a06e-4f1a-bc32-4c23915a6a88)
+![Screenshot 2024-11-29 132211](https://github.com/user-attachments/assets/79642d7e-e182-4850-b479-d23f14e08d83)
